@@ -13,3 +13,6 @@
 [submodule "agent"]
 	path = agent
 	url = git@github.com:Katello/katello-agent.git
+[submodule "installer"]
+	path = installer
+	url = https://github.com/Katello/katello-installer
